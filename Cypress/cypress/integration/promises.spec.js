@@ -1,5 +1,5 @@
 // ------- Utilizando o Promise para sincronizar o timeout ---------//
-// O Promiseobjeto representa a eventual conclusão (ou falha) de uma operação assíncrona e seu valor resultante //
+// O Promise objeto representa a eventual conclusão (ou falha) de uma operação assíncrona e seu valor resultante //
 
 const getSomething = () => {
 	return new Promise((resolve, reject) => {
